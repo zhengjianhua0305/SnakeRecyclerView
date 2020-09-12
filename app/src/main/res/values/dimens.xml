@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_margin">60dp</dimen>
+    <dimen name="connector_width">3dp</dimen>
+
+</resources>
